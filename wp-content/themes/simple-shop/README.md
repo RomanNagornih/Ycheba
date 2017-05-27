@@ -1,0 +1,2 @@
+# Simple-Shop-Theme
+Simple Shop is an easy to use storefront for your WooCommerce business. Display your products in a simple, clean, and modern layout. Simple Shop supports a custom homepage, archive pages, and blog posts. This theme is responsive, leverages the front-end customizer and yet it's lightweight. Now supports live front-end text widget editing via Note. More info - http://wordpress.org/plugins/note/.
