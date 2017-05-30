@@ -26,7 +26,7 @@ define('DB_NAME', 'overpc');
 define('DB_USER', 'overpc');
 
 /** Пароль к базе данных MySQL */
-define('DB_PASSWORD', '8909');
+define('DB_PASSWORD', '35033484174nz');
 /** Имя сервера MySQL */
 define('DB_HOST', 'localhost');
 
